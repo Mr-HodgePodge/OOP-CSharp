@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-CSharp", "OOP-CSharp\OOP-CSharp.csproj", "{5B89BC89-C0DA-4D4B-A73B-17A9A539A681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic Destroyers", "Magic Destroyers\Magic Destroyers.csproj", "{E8498E23-405A-4C93-85D3-AC2F77545EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5B89BC89-C0DA-4D4B-A73B-17A9A539A681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B89BC89-C0DA-4D4B-A73B-17A9A539A681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B89BC89-C0DA-4D4B-A73B-17A9A539A681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8498E23-405A-4C93-85D3-AC2F77545EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8498E23-405A-4C93-85D3-AC2F77545EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8498E23-405A-4C93-85D3-AC2F77545EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8498E23-405A-4C93-85D3-AC2F77545EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
